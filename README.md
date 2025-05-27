@@ -1,9 +1,9 @@
 Hi, I'm Danay <img src="https://github.com/hagersew/hagersew/blob/master/Wave.gif" height="22px" width="22px">
 
 
-Frontend Developer
+Backend Developer
 
-- 🔭 I’m currently working on [Presence Browser](https://presencebrowser.com) in the Frontend Team
+- 🔭 I’m currently working on [Presence Browser](https://presencebrowser.com) in the Backend Team
 - 💬 Ask me about anything tech related, I am happy to help;
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
