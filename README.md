@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Danay1234/Danay1234/blob/main/Screenshot%202025-06-02%20043012.png?raw=true" width="150" height="150" style="border-radius: 50%;" alt="Danay Profile Picture"/>
+</p>
 
 
 <h1 align="center">Hi, I'm Danay 👋</h1>
