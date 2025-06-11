@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/danayhayelom/danayhayelom/assets/your_image_id_here" width="150" height="150" style="border-radius: 50%;" alt="Danay Profile Picture"/>
-</p>
+
 
 <h1 align="center">Hi, I'm Danay 👋</h1>
 <h3 align="center">A Passionate Backend Developer</h3>
