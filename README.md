@@ -9,7 +9,9 @@ Backend Developer
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ I love to play games.
 - 📫 How to reach me:
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/abeldotadane) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=social)](https://t.me/abeldotexe) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/hagersewdotcom) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=social)](mailto:contacttoabel@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/danay-hayelom)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=social)](https://t.me/Dana_y_12)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=social)](mailto:danayhayelom1221@gmail.com)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hagersew&label=Profile%20views&color=0e75b6&style=flat" alt="Abel Adane" /> </p>
 
