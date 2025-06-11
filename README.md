@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Danay 👋</h1>
-<h3 align="center">A Passionate Backend Developer from Ethiopia</h3>
+<h3 align="center">A Passionate Backend Developer </h3>
 
 <p align="left">
 I'm a dedicated backend developer with experience building robust and scalable applications using Java (Spring Boot), Node.js, and modern web technologies. I love solving problems, learning new tools, and collaborating on impactful projects. Currently, I’m contributing to the backend of <a href="https://presencebrowser.com" target="_blank">Presence Browser</a>, and I’m always looking for opportunities to grow and contribute to open-source communities.
