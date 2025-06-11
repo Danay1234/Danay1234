@@ -16,7 +16,6 @@ Backend Developer
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hagersew&label=Profile%20views&color=0e75b6&style=flat" alt="Abel Adane" /> </p>
 
 Languages and Tools:
-
 <img align="left" alt="JavaScript" src="https://img.icons8.com/color/36/000000/javascript.png"/>
 <img align="left" alt="TypeScript" src="https://img.icons8.com/color/36/000000/typescript.png"/>
 <img align="left" alt="HTML5" src="https://img.icons8.com/color/36/000000/html-5.png"/>
@@ -35,7 +34,9 @@ Languages and Tools:
 <img align="left" alt="Sass" src="https://img.icons8.com/color/36/000000/sass.png"/>
 <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluent/36/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="bootstrap" src="https://img.icons8.com/color/36/000000/bootstrap.png"/>
-<!--
+<img align="left" alt="Spring Boot" src="https://img.icons8.com/color/36/spring-logo.png"/>
+<img align="left" alt="Python" src="https://img.icons8.com/color/36/000000/python.png"/>
+
 ### CodeWars
 
  <a target="_blank" href="https://www.codewars.com/users/hagersew"><img src="https://www.codewars.com/users/hagersew/badges/large" alt="codewars badge large" /></a>
