@@ -36,7 +36,7 @@ Languages and Tools:
 <img align="left" alt="bootstrap" src="https://img.icons8.com/color/36/000000/bootstrap.png"/>
 <img align="left" alt="Spring Boot" src="https://img.icons8.com/color/36/spring-logo.png"/>
 <img align="left" alt="Python" src="https://img.icons8.com/color/36/000000/python.png"/>
-
+<!--
 ### CodeWars
 
  <a target="_blank" href="https://www.codewars.com/users/hagersew"><img src="https://www.codewars.com/users/hagersew/badges/large" alt="codewars badge large" /></a>
