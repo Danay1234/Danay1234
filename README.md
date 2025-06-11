@@ -21,7 +21,6 @@ Languages and Tools:
 <img align="left" alt="HTML5" src="https://img.icons8.com/color/36/000000/html-5.png"/>
 <img align="left" alt="CSS3" src="https://img.icons8.com/color/36/000000/css3.png"/>
 <img align="left" alt="React" src="https://img.icons8.com/plasticine/36/000000/react.png"/>
-<img align="left" alt="Redux" src="https://img.icons8.com/color/36/000000/redux.png"/>
 <img align="left" alt="Node" src="https://img.icons8.com/color/36/000000/nodejs.png"/>
 <img align="left" alt="GraphQL" src="https://img.icons8.com/color/36/000000/graphql.png"/>
 <img align="left" alt="Angular" src="https://img.icons8.com/color/36/000000/angularjs.png"/>
