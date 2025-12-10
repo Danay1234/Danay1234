@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Danay 👋</h1>
-<h3 align="center">💻 A Passionate Backend Developer | Java | Spring Boot | Node.js</h3>
+<h3 align="center">💻 A Passionate Backend Developer | Java | Spring Boot | Python</h3>
 
 <p align="center">
   I'm a dedicated backend developer with experience building robust and scalable applications using Java (Spring Boot), Node.js, and modern web technologies.<br/>
