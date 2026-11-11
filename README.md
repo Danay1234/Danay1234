@@ -123,6 +123,9 @@ My engineering interests include:
 </p>
 
 ---
+<a href="https://digitalmerkato.com.et/" target="_blank">
+  <img src="https://img.shields.io/badge/Company-Digital%20Merkato-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Digital Merkato"/>
+</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danayhayelom&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
