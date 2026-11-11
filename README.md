@@ -49,6 +49,44 @@ Key engineering areas:
 
 ---
 
+## 📂 Featured Projects & Repositories
+
+These repositories are part of the broader **EthioERP enterprise software ecosystem** developed at Digital Merkato Technology PLC.
+
+### 1. [EthioERP Megbiya — Enterprise Platform Backend](https://github.com/DIGITAL-MERKATO/ethioerp-megbiya-backend)
+
+Enterprise platform backend responsible for identity management, tenant and company management, subscriptions, billing, roles, permissions, and platform-level service integration.
+
+**Key Technologies:** Python, Django, PostgreSQL, Kafka, RabbitMQ, Celery.
+
+**Engineering Focus:** Domain-Driven Design, Microservices, Multi-Tenant Architecture, Transactional Outbox, and Reliable Business Workflows.
+
+### 2. [EthioHisab Foundation — Core Accounting Service](https://github.com/DIGITAL-MERKATO/ethioerp-ethiohisab-foundation)
+
+Core accounting foundation responsible for Chart of Accounts, Journal Entries, General Ledger, Fiscal Calendars, Financial Posting, Currency, Taxation, Vendors, and Receipts.
+
+**Key Technologies:** Python, Django, PostgreSQL, Redis, Celery, Kafka, RabbitMQ.
+
+**Engineering Focus:** Double-Entry Accounting, Financial Data Integrity, Clean Architecture, Event-Driven Integration, and Reliable Financial Workflows.
+
+### 3. [EthioERP HR Payroll Service](https://github.com/DIGITAL-MERKATO/ethioerp-hr-payroll)
+
+Multi-tenant payroll service supporting employee contracts, Ethiopian statutory payroll calculations, payroll processing, payslip generation, bank disbursement exports, and accounting integration.
+
+**Key Technologies:** Python, Django REST Framework, PostgreSQL, Kafka.
+
+**Engineering Focus:** Payroll Processing, Business Logic, Tax and Pension Calculations, Transactional Outbox, and Accounting Integration.
+
+### 4. [EthioHisab Reporting Service — Financial Reporting](https://github.com/DIGITAL-MERKATO/ethioerp-ethiohisab-reporting)
+
+Tenant-scoped financial and tax reporting service providing Trial Balance, General Ledger, Account Balances, and Monthly VAT reports using immutable reporting facts and versioned projections.
+
+**Key Technologies:** Python, Django, PostgreSQL, Next.js.
+
+**Engineering Focus:** Financial Reporting, Data Projection, Idempotent Processing, Multi-Tenant Data Isolation, and Financial Data Consistency.
+
+---
+
 ## 🚀 Technology Stack
 
 **Backend Development**
@@ -111,9 +149,9 @@ My engineering interests include:
 ## 📫 Let's Connect
 
 <p align="center">
- <a href="https://www.linkedin.com/in/danay-hayelom-b3b739368" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <a href="https://www.linkedin.com/in/danay-hayelom-b3b739368" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://t.me/Dana_y_12">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
@@ -123,6 +161,7 @@ My engineering interests include:
 </p>
 
 ---
+
 <a href="https://digitalmerkato.com.et/" target="_blank">
   <img src="https://img.shields.io/badge/Company-Digital%20Merkato-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Digital Merkato"/>
 </a>
